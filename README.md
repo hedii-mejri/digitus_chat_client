@@ -8,7 +8,7 @@ Chat Server
 Clone the repo
 ```
 > git clone https://github.com/jhudson8/golang-chat-example.git
-> cd digitus_chat_client
+> cd digitus_chat_client-master
 ```
 
 Edit the server/client configuration as you need (```config.json```)
